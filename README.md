@@ -1,2 +1,2 @@
-# Proyecto apra el tp 4 de POO
+# Proyecto para el tp 4 de POO
 
